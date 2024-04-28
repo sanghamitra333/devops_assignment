@@ -2,3 +2,7 @@
 This file is created for Devops Assignment by Sanghamitra Archana 
 WIMS ID = 2020WA86967
 Batch - WIMS_20(S2-S3) Sun 05
+
+Adding more lines // Step 11 of Devops assignment
+Check 1 Passed
+Check 2 Passed 
